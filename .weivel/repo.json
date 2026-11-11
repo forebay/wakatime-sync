@@ -1,0 +1,13 @@
+{
+  "format": 1,
+  "importName": "wakatime-sync",
+  "description": "Reports time spent coding in Claude Code and OpenCode to WakaTime.",
+  "topics": [
+    "ai",
+    "ai-proxy",
+    "forebay",
+    "llm",
+    "plugin",
+    "typescript"
+  ]
+}
